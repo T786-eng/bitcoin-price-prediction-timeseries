@@ -1,0 +1,6 @@
+1. Numpy
+2. pandas
+3. Sciket-learn
+4. matplotlib
+5. os
+
